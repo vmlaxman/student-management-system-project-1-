@@ -1,0 +1,4 @@
+1001,lakshmi ,25,mca
+1002,narayanan,24,mba
+1001,lakshmi,20,mba
+1003,manikandan sir,30,mca gold medal
